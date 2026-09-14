@@ -2,7 +2,7 @@
 
 **Enter skills, experience, market, and engagement type → get a freelance rate card** with hourly + project ranges, a transparent pricing formula, positioning, client justification email, and discount/raise scripts.
 
-- **Live:** https://ratedeck.vercel.app *(update after deploy)*
+- **Live:** https://ratedeck.vercel.app
 - **Repo:** https://github.com/healthyhabitat/ratedeck
 - **Stack:** Next.js App Router, TypeScript, Tailwind CSS, Stripe Checkout
 - **Monetization:** Free preview (ranges + formula). Full card unlock = **$1**.
